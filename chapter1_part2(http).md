@@ -101,4 +101,3 @@ There are various categories of HTTP headers:
 - **Caching headers**: Control caching behavior (Cache-Control, Expires, Age, ETag, If-Modified-Since)
 - **CORS headers**: Enable cross-origin resource sharing (Access-Control-Allow-Origin, Access-Control-Request-Method)
 - **Security headers**: Enhance security of HTTP communication (Content-Security-Policy, Strict-Transport-Security)
-```
